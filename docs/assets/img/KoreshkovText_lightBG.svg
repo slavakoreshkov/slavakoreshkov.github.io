@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 192"
+>
+	<style type="text/css">
+		@keyframes text-animated{
+		0%{transform: translateY(0px);}
+		90%{transform: translateY(0px);}
+		95%{transform: translateY(-24px);}
+		98%{transform: translateY(12px);}
+		100%{transform: translateY(0px);}
+		}
+		.st0{fill:#33CC33;}
+		.st1{fill:#666666;}
+	</style>
+	<g>
+		<g>
+			<g style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5s;">
+				<g>
+					<rect x="34" y="124.3" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="117.5" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="110.7" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="103.9" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="97.1" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="90.3" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="83.5" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="76.7" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="69.9" class="st0" width="10.5" height="4.5"/>
+					<rect x="34" y="63.1" class="st0" width="10.5" height="4.5"/>
+					<path class="st0" d="M37.5,56.9h3.4c0.8,0,1.4,0.6,1.4,1.4V61h-6.3v-2.7C36.1,57.5,36.7,56.9,37.5,56.9z"/>
+				</g>
+				<g>
+					<polygon class="st1" points="44.4,59 48.6,59 48.6,133.1 29.8,133.1 29.8,59 34,59 34,61 31.9,61 31.9,131 46.5,131 46.5,61
+					44.4,61 				"/>
+					<polygon class="st1" points="50.7,94.8 50.7,96.5 81.4,132.9 101.2,132.9 69.6,95.7 99.6,59.1 79.7,59.1 				"/>
+				</g>
+			</g>
+			<path class="st1" d="M158.1,112.6c-3.6,4.4-8.8,6.5-15.4,6.5c-6.7,0-11.8-2.2-15.4-6.5c-3.6-4.4-5.5-9.9-5.5-16.6
+			c0-6.7,1.8-12.2,5.5-16.6c3.6-4.4,8.7-6.5,15.4-6.5c6.6,0,11.8,2.1,15.4,6.5c3.6,4.4,5.4,9.9,5.4,16.6
+			C163.6,102.7,161.8,108.2,158.1,112.6L158.1,112.6L158.1,112.6z M170.6,68.3c-6.9-6.8-16.2-10.2-28-10.2
+			c-11.8,0-21.1,3.4-27.9,10.2c-6.9,6.8-10.4,16-10.4,27.7c0,11.6,3.4,20.8,10.4,27.6c6.8,6.9,16.2,10.3,27.9,10.3
+			c11.8,0,21.1-3.4,28-10.3c6.9-6.8,10.4-16,10.4-27.6C181,84.3,177.6,75.1,170.6,68.3z"
+				  style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.1s;"/>
+			<path class="st1" d="M240.2,83.3c0,7-4.2,10.2-12.9,10.2h-15V73.1h15C236,73,240.2,76.4,240.2,83.3L240.2,83.3L240.2,83.3z
+			 M227.8,107.5l16.3,25.4h18.8l-18.3-28.7l1.4-0.4c1.8-0.7,4.5-2.8,7.1-5.7c2.6-2.9,4.7-8.7,4.7-15.1c0-16.3-9.2-23.9-30.3-23.9
+			l-31.7,0v73.8h16.6v-25.5H227.8z"
+				  style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.2s;"/>
+			<polygon class="st1" points="334.4,132.9 334.4,118.9 290.5,118.9 290.5,101.8 327.6,101.8 327.6,88.3 290.5,88.3 290.5,73.1
+			334.4,73.1 334.4,59.1 273.9,59.1 273.9,132.9"
+					 style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.3s;"/>
+			<path class="st1" d="M409.6,80.3c0-7.1-2.7-12.6-8.1-16.5c-5.4-3.8-13.1-5.7-23-5.7c-9.7,0-17.4,2-22.9,5.8
+			c-5.5,3.9-8.2,9.2-8.2,15.9c0,3.9,0.9,7.3,2.7,10.1c1.7,2.8,4,5,6.8,6.5c2.8,1.5,5.9,2.8,9.3,3.8c6.8,2.1,14,2.9,19.6,4.2
+			c5.6,1.2,9.5,3.4,9.5,6.9c0,6-5.3,9-16.1,9c-10.4,0-16.3-2.6-16.3-9.8v-3l-17.4,0v2.7c0,15.4,12.1,23.7,33.7,23.7
+			c10.5,0,18.7-2,24.6-6c5.9-4,8.9-9.5,8.9-16.6c0-4-0.9-7.4-2.6-10.3c-1.7-2.8-4-4.9-6.8-6.4c-2.8-1.4-5.9-2.6-9.3-3.5
+			c-6.8-1.8-14-2.6-19.6-3.9c-5.6-1.2-9.5-3.5-9.5-7.4c0-2.7,1.3-4.7,3.9-6.1c2.5-1.4,5.8-2,9.8-2c9,0,13.7,3.2,13.7,8.7v1.9h17.4
+			L409.6,80.3L409.6,80.3z"
+				  style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.4s;"/>
+			<polygon class="st1" points="495.3,132.9 495.3,59.1 478.7,59.1 478.7,87.1 443,87.1 443,59.1 426.4,59.1 426.4,132.9 443,132.9
+			443,101.7 478.7,101.7 478.7,132.9"
+					 style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.5s;"/>
+			<polygon class="st1" points="557.9,59.1 528.9,94.8 528.9,59.1 512.3,59.1 512.3,132.9 528.9,132.9 528.9,96.5 559.6,132.9
+			579.4,132.9 547.8,95.7 577.8,59.1"
+					 style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.6s;"/>
+			<path class="st1" d="M636.3,112.6c-3.6,4.4-8.8,6.5-15.4,6.5c-6.7,0-11.8-2.2-15.4-6.5c-3.6-4.4-5.5-9.9-5.5-16.6
+			c0-6.7,1.8-12.2,5.5-16.6c3.6-4.4,8.7-6.5,15.4-6.5c6.6,0,11.8,2.1,15.4,6.5c3.6,4.4,5.4,9.9,5.4,16.6
+			C641.8,102.7,640,108.2,636.3,112.6L636.3,112.6L636.3,112.6z M648.8,68.3c-6.9-6.8-16.2-10.2-28-10.2c-11.8,0-21.1,3.4-27.9,10.2
+			c-6.9,6.8-10.4,16-10.4,27.7c0,11.6,3.4,20.8,10.4,27.6c6.8,6.9,16.2,10.3,27.9,10.3c11.8,0,21.1-3.4,28-10.3
+			c6.9-6.8,10.4-16,10.4-27.6C659.2,84.3,655.7,75.1,648.8,68.3z"
+				  style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.7s;"/>
+			<polygon class="st1" points="720.7,59.1 701.8,116.2 700.3,116.2 681.4,59.1 663.9,59.1 689.5,132.9 712.5,132.9 738.2,59.1"
+					 style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.8s;"/>
+			<path class="st1" d="M748.5,31.9h-3.6v13.3h-3.1V31.9h-3.6v-2.7h10.3V31.9L748.5,31.9z M749.1,45.2l3-16h2.3l4.2,10.2l4.4-10.2
+			h2.3l2.7,16h-3.2l-1.4-9.9l-4.3,9.9H758l-4.1-9.9l-1.6,9.9H749.1z"
+				  style="display:block;animation:6s linear infinite both text-animated; transform-origin:50% 50%; animation-delay:5.9s;"/>
+		</g>
+	</g>
+</svg>

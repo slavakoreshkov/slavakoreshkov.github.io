@@ -1,0 +1,158 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+	 viewBox="0 0 768 768"
+	 width="256"
+	 height="256"
+>
+<style type="text/css">
+	@keyframes dash {
+		to {
+			stroke-dashoffset: 0;
+		}
+		0%{fill:none;}
+		95%{fill:none;}
+		100%{fill:#FFFFFF;}
+	}
+	@keyframes item1-animation{
+		0%{fill:none;}
+		5%{fill:none;}
+		10%{fill:none;}
+		15%{fill:none;}
+		20%{fill:#FF0000;}
+		25%{fill:none;}
+		30%{fill:none;}
+		35%{fill:#FF0000;}
+		30%{fill:none;}
+		45%{fill:none;}
+		50%{fill:#FF7F7F;}
+		55%{fill:#FFA07D;}
+		60%{fill:#FFB87A;}
+		65%{fill:#FFCE73;}
+		70%{fill:#FFE469;}
+		75%{fill:#FFFF73;}
+		80%{fill:#E8FF75;}
+		85%{fill:#C7FF57;}
+		90%{fill:#A3F25E;}
+		95{fill:#6CF739;}
+		100%{fill:#12F50E;}
+	}
+	@keyframes item2-animation{
+	0%{fill:none;}
+	50%{fill:none;}
+	55%{fill:#FFA07D;}
+	60%{fill:#FFB87A;}
+	65%{fill:#FFCE73;}
+	70%{fill:#FFE469;}
+	75%{fill:#FFFF73;}
+	80%{fill:#E8FF75;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item3-animation{
+	0%{fill:none;}
+	55%{fill:none;}
+	60%{fill:#FFB87A;}
+	65%{fill:#FFCE73;}
+	70%{fill:#FFE469;}
+	75%{fill:#FFFF73;}
+	80%{fill:#E8FF75;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item4-animation{
+	0%{fill:none;}
+	60%{fill:none;}
+	65%{fill:#FFCE73;}
+	70%{fill:#FFE469;}
+	75%{fill:#FFFF73;}
+	80%{fill:#E8FF75;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item5-animation{
+	0%{fill:none;}
+	65%{fill:none;}
+	70%{fill:#FFE469;}
+	75%{fill:#FFFF73;}
+	80%{fill:#E8FF75;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item6-animation{
+	0%{fill:none;}
+	70%{fill:none;}
+	75%{fill:#FFFF73;}
+	80%{fill:#E8FF75;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item7-animation{
+	0%{fill:none;}
+	75%{fill:none;}
+	80%{fill:#E8FF75;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item8-animation{
+	0%{fill:none;}
+	80%{fill:none;}
+	85%{fill:#C7FF57;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item9-animation{
+	0%{fill:none;}
+	85%{fill:none;}
+	90%{fill:#A3F25E;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item10-animation{
+	0%{fill:none;}
+	90%{fill:none;}
+	95%{fill:#6CF739;}
+	100%{fill:#12F50E;}
+	}
+	@keyframes item11-animation{
+	0%{fill:none;}
+	95%{fill:none;}
+	100%{fill:#12F50E;}
+	}
+	.st1{
+		stroke-dasharray: 6000;
+		stroke-dashoffset: 3000;
+		animation: dash 2s linear forwards;
+	}
+</style>
+<g>
+	<polygon fill="#FFFFFF" class="st1" stroke="#FFFFFF" stroke-width="10" points="513.2,704 665.8,704 665.8,704 704,704 704,64 64,64 64,704 450,704 415.8,650.7 117.3,650.7
+		117.3,117.3 650.7,117.3 650.7,650.7 607.8,650.7 436.7,384 573.6,170.7 444.8,170.7 307.9,384"/>
+	<polygon class="st1" points="255.4,170.7 279.4,170.7 279.4,597.3 171.1,597.3 171.1,170.7 195.1,170.7 195.1,182.7 183.1,182.7
+		183.1,585.3 267.4,585.3 267.4,182.7 255.4,182.7 "/>
+	<g fill="#12F50E">
+		<rect style="display:block;animation:12s linear item1-animation;" x="195.1" y="547.2" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item2-animation;" x="195.1" y="508" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item3-animation;" x="195.1" y="468.9" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item4-animation;" x="195.1" y="429.7" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item5-animation;" x="195.1" y="390.5" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item6-animation;" x="195.1" y="351.4" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item7-animation;" x="195.1" y="312.2" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item8-animation;" x="195.1" y="273" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item9-animation;" x="195.1" y="233.8" width="60.2" height="26.1"/>
+		<rect style="display:block;animation:12s linear item10-animation;" x="195.1" y="194.7" width="60.2" height="26.1"/>
+		<path style="display:block;animation:12s linear item11-animation;" d="M215.4,158.7h19.6c4.6,0,8.3,3.7,8.3,8.3v15.7h-36.2V167C207.1,162.4,210.9,158.7,215.4,158.7z"/>
+	</g>
+</g>
+</svg>
